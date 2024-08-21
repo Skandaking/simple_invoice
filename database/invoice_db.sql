@@ -143,7 +143,7 @@ CREATE TABLE `service_list` (
 --
 
 INSERT INTO `service_list` (`id`, `category_id`, `service`, `description`, `price`, `date_created`, `date_updated`) VALUES
-(1, 2, 'Service 1', '&lt;p&gt;This is a sample description for Service #1&lt;/p&gt;', 500, '2022-09-24 22:07:55', NULL),
+(1, 2, 'Service 1', '&lt;p&gt;This is a sample description for Service #1&lt;/p&gt;', 600, '2022-09-24 22:07:55', NULL),
 (2, 2, 'Service 2', '&lt;p&gt;This is a sample description for &lt;b&gt;Service #2&lt;/b&gt;.&lt;/p&gt;', 350, '2022-09-24 22:08:42', NULL);
 
 -- --------------------------------------------------------
